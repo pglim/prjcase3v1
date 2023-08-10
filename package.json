@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/pglim/m3l12del/issues"
   },
-  "homepage": "https://github.com/pglim/m3l12del#readme"
+  "homepage": "https://github.com/pglim/m3l12del#readme",
+  "dependencies": {
+    "serverless": "^3.34.0"
+  },
+  "devDependencies": {
+    "serverless-offline": "^12.0.4"
+  }
 }
