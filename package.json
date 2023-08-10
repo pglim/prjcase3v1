@@ -1,0 +1,19 @@
+{
+  "name": "m3l12del",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pglim/m3l12del.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pglim/m3l12del/issues"
+  },
+  "homepage": "https://github.com/pglim/m3l12del#readme"
+}
