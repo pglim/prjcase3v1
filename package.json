@@ -1,5 +1,5 @@
 {
-  "name": "m3l12del",
+  "name": "prjcase3v1",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pglim/m3l12del.git"
+    "url": "git+https://github.com/pglim/prjcase3v1.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pglim/m3l12del/issues"
+    "url": "https://github.com/pglim/prjcase3v1/issues"
   },
-  "homepage": "https://github.com/pglim/m3l12del#readme",
+  "homepage": "https://github.com/pglim/prjcase3v1#readme",
   "dependencies": {
     "serverless": "^3.34.0"
   },
