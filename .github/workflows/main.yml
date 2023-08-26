@@ -52,7 +52,7 @@ jobs:
 
 on:
   push:
-    branches: Staging
+    branches: [ main, "*" ]
 
   Stagingunit-testing:
     runs-on: ubuntu-latest
@@ -85,7 +85,7 @@ on:
 
 on:
   push:
-    branches: [ Production, "*" ]
+    branches: [ main, "*" ]
     
   Productionunit-testing:
     runs-on: ubuntu-latest
