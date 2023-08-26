@@ -52,7 +52,7 @@ jobs:
 
 on:
   push:
-    branches: [ Staging, "*" ]
+    branches: Staging
 
   Stagingunit-testing:
     runs-on: ubuntu-latest
