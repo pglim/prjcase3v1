@@ -62,7 +62,7 @@ jobs:
 
   Stagingdeploy:
     runs-on: ubuntu-latest
-   # needs: Stagingunit-testing
+    needs: Stagingunit-testing
     steps:
       - name: Checkout repository code
         uses: actions/checkout@v3
@@ -91,7 +91,7 @@ jobs:
 
   Productiondeploy:
     runs-on: ubuntu-latest
-   # needs: Productionunit-testing
+    needs: Productionunit-testing
     steps:
       - name: Checkout repository code
         uses: actions/checkout@v3
